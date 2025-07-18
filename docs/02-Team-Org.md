@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Team Org
 tags:
 - tag1
 - tag2
