@@ -27,10 +27,9 @@ This will be modified with **Product Requirement** assignment
 
 ## Team Members Datasheet links
 
-
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Team Member #1                | [title](https://www.example.com) |
-| Team Member #2                | link |
-| Team Member #3                | link |
-| Team Member #4                | link |
+| Name #1                | [title](https://www.example.com) |
+| Name #2                | link |
+| Name #3                | link |
+| Name #4                | link |
