@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Team Block Diagram
 tags:
 - tag1
 - tag2
