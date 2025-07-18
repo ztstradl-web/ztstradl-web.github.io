@@ -16,18 +16,17 @@ Professor Name</h4>
 
 ## Project Objective
 
-This will be modified with **Product Requirement**
+This will be modified with **Product Requirement** assignment
 
 - Et ducimus
 - Prosecta hinc nix vidi rettulit cum sitim
 
 ## Stakeholders
 
-This will be modified with **Product Requirement**
+This will be modified with **Product Requirement** assignment
 
 ## Team Members Datasheet links
 
-**External Clock Module**
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
