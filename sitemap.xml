@@ -61,12 +61,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://embedded-systems-design.github.io/template_report/Appendix/static/node_modules/mathjax/</loc>
+         <loc>https://embedded-systems-design.github.io/template_report/component-selection-example/07-index/</loc>
          <lastmod>2025-07-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://embedded-systems-design.github.io/template_report/component-selection-example/07-index/</loc>
+         <loc>https://embedded-systems-design.github.io/template_report/static/node_modules/mathjax/</loc>
          <lastmod>2025-07-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
