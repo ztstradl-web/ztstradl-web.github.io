@@ -17,11 +17,17 @@ _Italic Text_
 * Bullet Point 2
 * Bullet Point 3
 
-## Background
+## Images
 
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
 [link to background](/background)
+
+<figure>
+    <img src="Images/imageGoal.jpg"
+         alt="Showing the completed mock controller">
+    <figcaption><strong>Figure 2:</strong> Showing the completed mock controller.</figcaption>
+</figure>
 
 ## Results
 
