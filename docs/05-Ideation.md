@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Ideation
 tags:
 - tag1
 - tag2
