@@ -46,12 +46,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://embedded-systems-design.github.io/template_report/second-page/</loc>
+         <loc>https://embedded-systems-design.github.io/template_report/Appendix/</loc>
          <lastmod>2025-07-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://embedded-systems-design.github.io/template_report/Appendix/</loc>
+         <loc>https://embedded-systems-design.github.io/template_report/Appendix/another-subfile/</loc>
+         <lastmod>2025-07-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://embedded-systems-design.github.io/template_report/Appendix/second-page/</loc>
          <lastmod>2025-07-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -62,11 +67,6 @@
     </url>
     <url>
          <loc>https://embedded-systems-design.github.io/template_report/static/node_modules/mathjax/</loc>
-         <lastmod>2025-07-18</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://embedded-systems-design.github.io/template_report/subfolder/another-subfile/</loc>
          <lastmod>2025-07-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
