@@ -24,8 +24,7 @@ _Italic Text_
 [link to background](/background)
 
 <figure>
-    <img src="images/imageGoal.JPG"
-         alt="Showing the completed mock controller">
+    <img src="images/imageGoal.JPG">
     <figcaption><strong>Figure 2:</strong> Showing the completed mock controller.</figcaption>
 </figure>
 
