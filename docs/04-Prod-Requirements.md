@@ -7,13 +7,7 @@ tags:
 
 ## Product Requirment Overview
 
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
-
-- Et ducimus
-- Prosecta hinc nix vidi rettulit cum sitim
-- Has in tonitribus tenebrae Romane mirantum resupina
-- Figuras et dextram
+The product requirments copied from FormLabs' Airpods Pro example template. Here .........
 
 ## Use Cases
 
