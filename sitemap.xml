@@ -6,16 +6,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/02-Block-Diagram/02-Team-Organization/</loc>
-         <lastmod>2025-08-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/03-Component-Selection/03-index/</loc>
-         <lastmod>2025-08-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/</loc>
          <lastmod>2025-08-01</lastmod>
          <changefreq>daily</changefreq>
@@ -37,6 +27,16 @@
     </url>
     <url>
          <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/second-page/</loc>
+         <lastmod>2025-08-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Block-Diagram/02-Team-Organization/</loc>
+         <lastmod>2025-08-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Component-Selection/03-index/</loc>
          <lastmod>2025-08-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
