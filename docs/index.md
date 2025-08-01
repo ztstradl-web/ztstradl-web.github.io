@@ -1,30 +1,28 @@
 ---
-title: Home
+title: Welcome
 tags:
 - tag1
 - tag2
 ---
-<h1>Project Name</h1>
+<h1>(Your Name) Datasheet</h1>
+as part of
+<h2>Project Name</h2>
 
-<h2>Team #</h2>
+<h3>Team #</h3>
 
-<h4>Arizona State University
-
-Class Information
-Professor Name</h4>
 **Submission: month, DD, YYYY**
 
-## Team Introduction
+## Introduction
 
 * This needs to be updated to reflect a team introduction
 * Content should also help an unfamiliar reader navigate to areas of interest.
 
+## Project Summary
 
-## Team Members Datasheet links
+* This needs to be updated to reflect a team introduction
+* Content should also help an unfamiliar reader navigate to areas of interest.
+  
+## My Contribution
 
-| **Team Member**        |**Ind Datasheet Links** |
-| ---------------------- | -----------------------|
-| Name #1                | [JohnDoe.GitHub](https://www.example.com) |
-| Name #2                | link |
-| Name #3                | link |
-| Name #4                | link |
+* This needs to be updated to reflect a team introduction
+* Content should also help an unfamiliar reader navigate to areas of interest.
