@@ -6,27 +6,37 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/</loc>
+         <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/04-BOM/04-index/</loc>
          <lastmod>2025-08-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/another-subfile/</loc>
+         <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/05-Schematic/05-index/</loc>
          <lastmod>2025-08-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/charts/</loc>
+         <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/20-Appendix/</loc>
          <lastmod>2025-08-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/esp-32-table/</loc>
+         <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/20-Appendix/another-subfile/</loc>
          <lastmod>2025-08-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/second-page/</loc>
+         <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/20-Appendix/charts/</loc>
+         <lastmod>2025-08-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/20-Appendix/esp-32-table/</loc>
+         <lastmod>2025-08-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/20-Appendix/second-page/</loc>
          <lastmod>2025-08-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
