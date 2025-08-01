@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://embedded-systems-design.github.io/template_report/</loc>
+         <loc>https://embedded-systems-design.github.io/EGR304TeamTemplate/</loc>
          <lastmod>2025-08-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://embedded-systems-design.github.io/template_report/02-Team-Organization/</loc>
+         <loc>https://embedded-systems-design.github.io/EGR304TeamTemplate/02-Team-Organization/</loc>
          <lastmod>2025-08-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://embedded-systems-design.github.io/template_report/03-User-Needs/</loc>
+         <loc>https://embedded-systems-design.github.io/EGR304TeamTemplate/03-User-Needs/</loc>
          <lastmod>2025-08-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://embedded-systems-design.github.io/template_report/Appendix/</loc>
+         <loc>https://embedded-systems-design.github.io/EGR304TeamTemplate/Appendix/</loc>
          <lastmod>2025-08-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://embedded-systems-design.github.io/template_report/Appendix/another-subfile/</loc>
+         <loc>https://embedded-systems-design.github.io/EGR304TeamTemplate/Appendix/another-subfile/</loc>
          <lastmod>2025-08-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://embedded-systems-design.github.io/template_report/Appendix/charts/</loc>
+         <loc>https://embedded-systems-design.github.io/EGR304TeamTemplate/Appendix/charts/</loc>
          <lastmod>2025-08-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://embedded-systems-design.github.io/template_report/Appendix/esp-32-table/</loc>
+         <loc>https://embedded-systems-design.github.io/EGR304TeamTemplate/Appendix/esp-32-table/</loc>
          <lastmod>2025-08-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://embedded-systems-design.github.io/template_report/Appendix/second-page/</loc>
+         <loc>https://embedded-systems-design.github.io/EGR304TeamTemplate/Appendix/second-page/</loc>
          <lastmod>2025-08-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
