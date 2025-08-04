@@ -1,12 +1,12 @@
 ---
-title: Team Organization
+title: Block Diagram
 tags:
 - tag1
 - tag2
 ---
 
 ## Introduction
-
+This has some basic start help here. The complete initial start guide can be view ["here"](https://embedded-systems-design.github.io/EGR304-Datasheet-Template/03-Schematic/schematic/) 
 **Bold Text**
 _Italic Text_
 **_Bold and Italic Text_**
@@ -19,9 +19,8 @@ _Italic Text_
 
 ## Images
 
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
+![Example of Indivial Block diagram ](individual-block-diagram.png)
 
-[link to background](/background)
 
 <figure>
     <img src="../image/innovation_showcase_Sp-2025.jpg">
@@ -34,28 +33,3 @@ _Italic Text_
 1. Numbered Point 2
 1. Numbered Point 3
 
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-
-## References
-
-[link to background](/background)
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-
-## References
