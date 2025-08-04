@@ -39,10 +39,6 @@ _Italic Text_
 [example link to idealab](https://idealab.asu.edu)
 
 
-## References
-
-[link to background](/background)
-
 ## Results
 
 1. Numbered Point 1
