@@ -24,7 +24,7 @@ _Italic Text_
     idth="500" height="500">
     <figcaption><strong>Figure 2:</strong> Early PCB working design.</figcaption>
 </figure>
-
+<br>
 
 <figure>
     <img src="/docs/image/showcase_Sp25.jpg"
