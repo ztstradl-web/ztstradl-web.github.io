@@ -19,13 +19,10 @@ _Italic Text_
 
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
-<figure>
-    <img src="deadBug.jpg"
-    idth="500" height="500">
-    <figcaption><strong>Figure 2:</strong> Early PCB working design.</figcaption>
-</figure>
-<br>
+![strong>Figure 2:</strong> Early PCB working design.](img src="deadBug.jpg")
 
+
+<br>
 <figure>
     <img src="/docs/image/showcase_Sp25.jpg"
     idth="500" height="500">
