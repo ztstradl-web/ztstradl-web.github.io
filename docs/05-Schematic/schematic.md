@@ -19,7 +19,6 @@ _Italic Text_
 
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
-[link to background](/background)
 
 <figure>
     <img src="/docs/image/innovation_showcase_Sp-2025.jpg">
