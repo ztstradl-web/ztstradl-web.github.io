@@ -21,7 +21,7 @@ _Italic Text_
 
 
 <figure>
-    <img src="/docs/image/innovation_showcase_Sp-2025.jpg" idth="500" height="500">
+    <img src="/docs/image/showcase_Sp-2025.jpg" idth="500" height="500">
     <figcaption><strong>Figure 2:</strong> Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math.</figcaption>
 </figure>
 
