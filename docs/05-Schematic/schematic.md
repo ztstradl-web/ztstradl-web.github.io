@@ -19,7 +19,7 @@ _Italic Text_
 
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
-![](Image01.jpg){style width="350" height="300"}
+![](Image01.jpg){style width:"350" height:"300;"}
 **Figure 2:** Early PCB working design
 
 *Note:*
