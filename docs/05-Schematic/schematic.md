@@ -25,7 +25,7 @@ _Italic Text_
 *Note:*
 **Figure 2** has the image within the folder with the .md file and **Figure 3** has the image being brought in from a source file called image.
 
-![](/image/showcase.jpg){width="350" height="300"}
+![](/docs/image/showcase.jpg){width="350" height="300"}
 **Figure 3:** Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math.
 
 
