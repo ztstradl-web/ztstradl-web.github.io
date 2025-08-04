@@ -22,7 +22,7 @@ _Italic Text_
 [link to background](/background)
 
 <figure>
-    <img src="/docs\image\innovation_showcase_Sp-2025.jpg">
+    <img src="docs/image/innovation_showcase_Sp-2025.jpg">
     <figcaption><strong>Figure 2:</strong> Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math.</figcaption>
 </figure>
 
