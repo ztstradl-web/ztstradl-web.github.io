@@ -20,14 +20,14 @@ _Italic Text_
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
 <figure>
-    <img src="deadBug.jpg"
+    <img src="...deadBug.jpg"
     idth="500" height="500">
     <figcaption><strong>Figure 2:</strong> Early PCB working design.</figcaption>
 </figure>
 
 
 <figure>
-    <img src="/docs/image/showcase_Sp-2025.jpg"
+    <img src=".../docs/image/showcase_Sp-2025.jpg"
     idth="500" height="500">
     <figcaption><strong>Figure 3:</strong> Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math.</figcaption>
 </figure>
