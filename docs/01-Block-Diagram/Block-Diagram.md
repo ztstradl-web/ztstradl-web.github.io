@@ -6,7 +6,8 @@ tags:
 ---
 
 ## Introduction
-This has some basic start help here. The complete initial start guide can be view ["here"](https://embedded-systems-design.github.io/EGR304-Datasheet-Template/03-Schematic/schematic/) 
+This has some basic start help here. The complete initial start guide can be view ["here"](https://embedded-systems-design.github.io/EGR304DatasheetTemplate/03-Schematic/schematic/)
+
 **Bold Text**
 _Italic Text_
 **_Bold and Italic Text_**
