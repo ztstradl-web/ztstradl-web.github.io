@@ -19,10 +19,10 @@ _Italic Text_
 
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
-![Figure 2: Early PCB working design]("Image01.jpg")
+![Figure 2: Early PCB working design](Image01.jpg)
 
 
-![Figure 3: ](".../docs/image/showcase_Sp25.jpg")
+![Figure 3: ](.../docs/image/showcase_Sp25.jpg)
 <br>
 
 
