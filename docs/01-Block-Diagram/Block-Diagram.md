@@ -18,19 +18,11 @@ _Italic Text_
 * Bullet Point 2
 * Bullet Point 3
 
-## Images
+## Example Block Diagram 
+First example is a sceenshot of the block diagram created outside of git and brought in.
 
 ![Example of Indivial Block diagram ](individual-block-diagram.png)
 
+## 2nd Option
 
-<figure>
-    <img src="../image/innovation_showcase_Sp-2025.jpg">
-    <figcaption><strong>Figure 2:</strong> Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math.</figcaption>
-</figure>
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
+Another option/method to adding the your sub-system block diagram can be seen in the ["Appendix-Chart"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/charts/)
