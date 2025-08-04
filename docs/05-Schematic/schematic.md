@@ -19,15 +19,12 @@ _Italic Text_
 
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
-![Figure 2: Early PCB working design.](img src="deadBug.jpg")
+![Figure 2: Early PCB working design.]("deadBug.jpg")
 
-
+![Figure 3: ](".../docs/image/showcase_Sp25.jpg")
 <br>
-<figure>
-    <img src="/docs/image/showcase_Sp25.jpg"
-    idth="500" height="500">
-    <figcaption><strong>Figure 3:</strong> Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math.</figcaption>
-</figure>
+
+
 
 ## Results
 
