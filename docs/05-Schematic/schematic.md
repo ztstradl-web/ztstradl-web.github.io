@@ -16,16 +16,15 @@ _Italic Text_
 
 ## Images
 
-
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
-![](Image01.jpg){style width:"350" height:"300;"}
+![dead bug circuit](Image01.jpg){style width:"350" height:"300;"}
 **Figure 2:** Early PCB working design
 
 *Note:*
 **Figure 2** has the image within the folder with the .md file and **Figure 3** has the image being brought in from a source file called image.
 
-![](/docs/image/ImageShowcase.jpg)
+![showcase](/docs/image/ImageShowcase.jpg)
 **Figure 3:** Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math.
 
 
