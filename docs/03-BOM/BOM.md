@@ -1,5 +1,5 @@
 ---
-title: Bill of Material
+title: Bill of Materials
 tags:
 - tag1
 - tag2
