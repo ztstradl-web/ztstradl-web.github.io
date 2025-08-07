@@ -5,11 +5,11 @@ tags:
 - tag2
 ---
 <center>
-<font size= "6">(Your Name) Datasheet</font>
-as part of
-<font size= "8"> Project Name</font>
-for
-<font size= "5"> Team ### </font>
+<font size= "6">(Your Name) Datasheet</font><br>
+as part of<br>
+<font size= "8"> Project Name</font><br>
+for<br>
+<font size= "5"> Team ### </font><br>
 
 **Submission: month, DD, YYYY**
 </center>
