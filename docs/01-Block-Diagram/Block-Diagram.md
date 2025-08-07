@@ -5,24 +5,20 @@ tags:
 - tag2
 ---
 
-## Introduction
-This has some basic start help here. The complete initial start guide can be view ["here"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/04-Schematic/schematic/)
+## Overview
+This needs to be updated with a brief purpose for having the block diagram.
+Things to mention are:
+* power levels
+* sensor
+* Actuator
+* team connections
+* Power source
+* ...
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+To get some initial formatting help, one can view ["here"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/04-Schematic/schematic/) some basic techniques.
 
-## Research Question
-
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
 
 ## Example Block Diagram 
-First example is a sceenshot of the block diagram created outside of git and brought in.
+Showing an example of how to import a screenshot of the block diagram created outside of git and brought into a page.
 
 ![Example of Indivial Block diagram ](individual-block-diagram.png)
-
-## 2nd Option
-
-Another option/method to adding the your sub-system block diagram can be seen in the ["Appendix-Chart"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/charts/)
