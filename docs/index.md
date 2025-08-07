@@ -4,17 +4,15 @@ tags:
 - tag1
 - tag2
 ---
-<font size= "6"> (Your Name) Datasheet</font>
-
+<center>
+<font size= "6">(Your Name) Datasheet</font>
 as part of
-
 <font size= "8"> Project Name</font>
-
 for
-
 <font size= "5"> Team ### </font>
 
 **Submission: month, DD, YYYY**
+</center>
 
 ## Introduction
 
