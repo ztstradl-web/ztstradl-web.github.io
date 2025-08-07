@@ -4,18 +4,15 @@ tags:
 - tag1
 - tag2
 ---
-(Your Name) Datasheet
-{: .fs-8}
+<font size= "6"> (Your Name) Datasheet</font>
 
 as part of
 
-Project Name
-{: .fs-6}
+<font size= "8"> Project Name</font>
 
 for
 
-Team ###
-{: .fs-6}
+<font size= "5"> Team ### </font>
 
 **Submission: month, DD, YYYY**
 
