@@ -4,12 +4,18 @@ tags:
 - tag1
 - tag2
 ---
-<h1>(Your Name) Datasheet</h1>
+(Your Name) Datasheet
+{: .fs-8}
+
 as part of
-<h2>Project Name</h2>
+
+Project Name
+{: .fs-6}
+
 for
 
-<h3>Team #</h3>
+Team ###
+{: .fs-6}
 
 **Submission: month, DD, YYYY**
 
