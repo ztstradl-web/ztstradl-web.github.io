@@ -8,7 +8,7 @@ tags:
 ## Overview
 written context
 
-## Bill of Materials Example
+## Bill of Materials Example (as Table)
 
 *Table ##: An example of one approach to adding your BOM table to this section.*
 
@@ -19,3 +19,7 @@ written context
 
 Note: Setting it up as a table is nice because it is completely viewable without scaling issues. <ins>Downside</ins> is that you have to do the math.
 * You could also import your BOM via a screenshot of the spreadsheet created BOM
+
+## Bill of Materials Example (as Image)
+![](BOM-Screenshot.png)
+**Figure 2:** Example Bill of Materials as a screenshot.
