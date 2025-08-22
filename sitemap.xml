@@ -26,6 +26,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/05-Power-Budget/Power-Budge/</loc>
+         <lastmod>2025-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/</loc>
          <lastmod>2025-08-22</lastmod>
          <changefreq>daily</changefreq>
@@ -36,17 +41,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/basic-markdown-examples/</loc>
+         <lastmod>2025-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/charts/</loc>
          <lastmod>2025-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/esp-32-table/</loc>
-         <lastmod>2025-08-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/second-page/</loc>
          <lastmod>2025-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
