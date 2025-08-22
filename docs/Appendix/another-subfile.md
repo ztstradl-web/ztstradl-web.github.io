@@ -1,5 +1,5 @@
 ---
-title: This is a secondary sub page
+title: Appendix - Another Subfile
 ---
 
 Things to discuss
