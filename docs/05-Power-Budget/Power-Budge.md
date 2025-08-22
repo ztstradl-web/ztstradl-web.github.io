@@ -5,10 +5,13 @@ title: Power Budge
 ## Overview
 Write a overview of what you did and why you did a Power Budget.
 
-> capture your power budge as a image to display
+> Capture your power budge as a image to display. Take time to get clean breaks and a well organized layout.
 
-![](Power-Budge-Example.jpg) {style width:"350" height:"300;"}
-**Figure ##:** Partial view os Power Budget Example
+![budget1](power-budge-pg1.png){style width:"350" height:"300;"}
+
+![budget2](power-budge-pg2.png){style width:"350" height:"300;"}
+
+![budget3](power-budge-pg3.png){style width:"350" height:"300;"}
 
 ## Conclusions
 
