@@ -1,5 +1,5 @@
 ---
-title: Power Budget
+title: Individal Power Budget
 ---
 
 ## Overview
