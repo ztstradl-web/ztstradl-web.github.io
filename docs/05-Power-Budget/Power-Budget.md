@@ -19,4 +19,4 @@ From the prepare Power Budget, .....
 
 ## Resouces
 
-<a href="Power Budget Example.xlsx" download>Click here to download Power Budget</a>
+<a href="PowerBudgetExample.xlsx" download>Click here to download Power Budget</a>
